@@ -1,0 +1,9 @@
+{
+	"name": "energy-anomaly-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "803423c6-2c59-46b8-b52a-32baf8cca3ac",
+		"tenantId": "42cd9923-6776-405f-ae9c-e97a36f797d5"
+	}
+}
